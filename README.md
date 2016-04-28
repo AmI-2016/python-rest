@@ -5,7 +5,6 @@ A simple REST server for introducing REST and Flask in Python. It can be run fro
 
 ``` python task_server.py ```
 or
-
 ```./task_server.py ```
 
 It provides basic support for showing and creating tasks.
